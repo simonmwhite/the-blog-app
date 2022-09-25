@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { getDocs, collection, deleteDoc, doc } from "firebase/firestore/lite";
 
-//Firebase imports.
+// Firebase imports.
 import { db, auth } from "../services/firebase";
 
 // Theme UI imports.
