@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "the-blog-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,10 @@
     "format": "prettier --write \"src/**/*.{js, jsx}\"",
     "lint": "eslint \"src/**/*.{js, jsx}\" --quiet"
   },
-  "author": "",
+  "author": {
+    "name": "Simon White",
+    "url": "https://github.com/simonmwhite"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.16",
