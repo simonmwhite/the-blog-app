@@ -59,7 +59,7 @@ const App = () => {
               <NavLink href="/createpost" p={2}>
                 Create post
               </NavLink>
-              <NavLink href="/home" p={2} onClick={signUserOut}>
+              <NavLink href="/" p={2} onClick={signUserOut}>
                 Log out
               </NavLink>
             </>
