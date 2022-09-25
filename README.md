@@ -2,6 +2,8 @@
 
 A blogging app built with React, Firebase and Theme UI.
 
+# Start by:
+
 cd ./docroot
 
 # Install node modules
